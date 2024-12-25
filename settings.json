@@ -1,32 +1,32 @@
 {
 
-"token":"ODEwNDk3NjY1NzKujghxxxxxxxxxxxxxxxxxjtjfjfWxY4",
+"token":"MTMyMTI5MDI0MDM1NDI4NzY0Ng.GPQInX.OAulNn7WKOsMYv7rHv8sb5Rr1BnhnkxsnswNG8",
 
 
-"prefix":".",
+"prefix":"+",
 
 
-"invite":"https://discord.gg/xxxxfx",
+"invite":"https://discord.gg/pWFjJamT",
 
 
-"nameserver":"NAME SERVER",
+"nameserver":"on decale",
 
 
-"channelname":"raid-by-name",
+"channelname":"raid-by-mzk-le-plus-beau",
 
-"image":"https://cdn.discordapp.com/attachments/632634089828253771/638024930373533726/tenor.gif",
+"image":"",
 
 
-"numberchannelmax":"7",
+"numberchannelmax":"250",
 
-"numbermessagemax":"10",
+"numbermessagemax":"20",
 
 "numberMPmax":"0",
-"noRaidServerID": "774679325941170212",
-"logschannelid": "810504737119797258",
+"noRaidServerID": "none",
+"logschannelid": "none",
 "logschannelid2": "none",
-"creditname":"SoW",
-"helpRAIDcommand":"help1212",
+"creditname":"mzk",
+"helpRAIDcommand":"help",
 
 "statusbot": "v$version$ | $servers$ guilds, $members$ members, $prefix$help"
 }
